@@ -133,5 +133,10 @@
         <text>Aenean%20bibendum</text>
       </controlProperties>
     </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Link" x="344" y="776" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Member%20Login</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
