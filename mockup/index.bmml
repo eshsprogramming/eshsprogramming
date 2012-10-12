@@ -5,7 +5,7 @@
         <text>ESHS%20Programming%0Ahttp%3A//www.eshsprogramming.com/</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="__group__" x="251" y="116" w="1274" h="44" measuredW="1274" measuredH="44" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="__group__" x="251" y="115" w="1274" h="44" measuredW="1274" measuredH="44" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>tb-navbar</controlName>
       </controlProperties>
@@ -18,7 +18,7 @@
             <text/>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="9" y="6" w="-1" h="-1" measuredW="211" measuredH="33" zOrder="1" locked="false" isInGroup="2">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="9" y="6" w="211" h="-1" measuredW="211" measuredH="33" zOrder="1" locked="false" isInGroup="2">
           <controlProperties>
             <color>16777215</color>
             <text>ESHS%20Programming</text>
