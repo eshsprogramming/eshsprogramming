@@ -39,11 +39,12 @@
             <verticalScrollbar>false</verticalScrollbar>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="101" y="62" w="308" h="-1" measuredW="308" measuredH="85" zOrder="1" locked="false" isInGroup="5">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="101" y="62" w="642" h="-1" measuredW="380" measuredH="85" zOrder="1" locked="false" isInGroup="5">
           <controlProperties>
+            <align>left</align>
             <bold>true</bold>
             <size>72</size>
-            <text>Welcome</text>
+            <text>Hello%20there%21</text>
           </controlProperties>
         </control>
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="101" y="155" w="627" h="61" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="5">
