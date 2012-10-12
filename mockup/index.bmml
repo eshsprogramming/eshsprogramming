@@ -36,6 +36,7 @@
             <borderColor>14540253</borderColor>
             <borderStyle>square</borderStyle>
             <color>14540253</color>
+            <verticalScrollbar>true</verticalScrollbar>
           </controlProperties>
         </control>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="101" y="62" w="-1" h="-1" measuredW="308" measuredH="85" zOrder="1" locked="false" isInGroup="5">
@@ -57,6 +58,43 @@
             <size>18</size>
             <state>up</state>
             <text>Learn%20More</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="11" controlTypeID="__group__" x="250" y="157" w="275" h="658" measuredW="275" measuredH="658" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>tb-stacked-tab-bar</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="275" h="658" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="11"/>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="275" h="49" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>2848996</color>
+            <shape>rectangle</shape>
+            <size>13</size>
+            <text>Home</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="47" w="275" h="49" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="11">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <size>13</size>
+            <text>About</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="91" w="275" h="49" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="11">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <size>13</size>
+            <text>Members</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="137" w="275" h="49" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="11">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <size>13</size>
+            <text>Sponsors</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
