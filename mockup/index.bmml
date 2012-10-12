@@ -36,7 +36,7 @@
             <borderColor>14540253</borderColor>
             <borderStyle>square</borderStyle>
             <color>14540253</color>
-            <verticalScrollbar>true</verticalScrollbar>
+            <verticalScrollbar>false</verticalScrollbar>
           </controlProperties>
         </control>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="101" y="62" w="-1" h="-1" measuredW="308" measuredH="85" zOrder="1" locked="false" isInGroup="5">
